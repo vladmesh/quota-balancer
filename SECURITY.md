@@ -2,7 +2,8 @@
 
 `qb` sits next to subscription credentials, so security reports are welcome.
 
-- Report privately via GitHub's "Report a vulnerability" (Security tab). Please do not open a
+- Report privately via GitHub's "Report a vulnerability" (Security tab):
+  <https://github.com/pasekahq/quota-balancer/security/advisories/new>. Please do not open a
   public issue for a vulnerability.
 - Include the version (`qb --version`), the role involved (`qbd`, `qb agent`, `qb gateway`, CLI) and steps to
   reproduce.
